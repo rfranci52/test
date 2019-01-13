@@ -1,0 +1,20 @@
+htlm {
+    background-color: white;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 33%;
+}
+
+.float_left {
+
+}
+
+p1 {
+    float: right;
+    margin-bottom: 200px;
+}
