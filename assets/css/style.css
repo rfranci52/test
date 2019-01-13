@@ -10,11 +10,19 @@ h1 {
     width: 33%;
 }
 
-.float_left {
+.float_left { float: left;
 
 }
 
 p1 {
     float: right;
     margin-bottom: 200px;
+}
+
+.label1 {
+
+}
+
+img {
+
 }
