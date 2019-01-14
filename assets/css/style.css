@@ -3,13 +3,18 @@ htlm {
 }
 
 h1 {
-    background-color: blue;
-    color: white;
+    background-color: white;
+    color: #4aaaa5;
     padding: 20px;
     margin-bottom: 20px;
     width: 33%;
 
     box-sizing: border-box;
+    border-bottom-color: gray;
+    border-style: solid;
+    border-left-color: white;
+    border-top-color: white;
+    border-right-color: white;
 
 }
 
@@ -46,19 +51,46 @@ p1 {
 li {
    
     text-align: end;
-    background-color: aqua;
+    background-color: #4aaaa5;
     bottom: 15px;
     position: relative;
 }
 
-.line {
+/* .line {
     position: absolute;
     background-color: gray;
     height: 2%;
     width: 80%;
    
    
-}
+} */
 #message {
     height: 50%;
+}
+
+.body2 {
+    position: relative;
+    color: blue;
+    height: 30%;
+
+}
+
+
+.head {
+    background-color: #ffffff;
+    border-width: 9px;
+    border-style: solid;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.content {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 960px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+
+
+
 }
